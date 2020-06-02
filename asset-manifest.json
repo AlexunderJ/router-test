@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/router-test/static/css/main.d3c860dd.chunk.css",
+    "main.js": "/router-test/static/js/main.402d56c7.chunk.js",
+    "main.js.map": "/router-test/static/js/main.402d56c7.chunk.js.map",
+    "runtime-main.js": "/router-test/static/js/runtime-main.46e3abc9.js",
+    "runtime-main.js.map": "/router-test/static/js/runtime-main.46e3abc9.js.map",
+    "static/js/2.df13caf4.chunk.js": "/router-test/static/js/2.df13caf4.chunk.js",
+    "static/js/2.df13caf4.chunk.js.map": "/router-test/static/js/2.df13caf4.chunk.js.map",
+    "index.html": "/router-test/index.html",
+    "precache-manifest.c4e51ae2b886f9b3e78711b5978bab2e.js": "/router-test/precache-manifest.c4e51ae2b886f9b3e78711b5978bab2e.js",
+    "service-worker.js": "/router-test/service-worker.js",
+    "static/css/main.d3c860dd.chunk.css.map": "/router-test/static/css/main.d3c860dd.chunk.css.map",
+    "static/js/2.df13caf4.chunk.js.LICENSE.txt": "/router-test/static/js/2.df13caf4.chunk.js.LICENSE.txt",
+    "static/media/pike1.png": "/router-test/static/media/pike1.c78027f6.png",
+    "static/media/pike2.jpg": "/router-test/static/media/pike2.0db22f04.jpg",
+    "static/media/sail1.jpg": "/router-test/static/media/sail1.03c441a5.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.46e3abc9.js",
+    "static/js/2.df13caf4.chunk.js",
+    "static/css/main.d3c860dd.chunk.css",
+    "static/js/main.402d56c7.chunk.js"
+  ]
+}
